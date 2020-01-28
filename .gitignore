@@ -1,0 +1,6 @@
+.floo
+.flooignore
+.gradle/
+build/
+out/
+**/*.jar
